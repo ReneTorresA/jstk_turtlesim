@@ -1,0 +1,19 @@
+<launch>
+    <!-- Start turtlesim_node node -->
+    <node name="turtlesim" pkg="turtlesim" type="turtlesim_node"/>
+
+    <!-- Start rqt_graph for node visualization -->
+    <node name="rqt_graph" pkg="rqt_graph" type="rqt_graph"/>
+
+    <!-- Start button_suscriber node for call service -->
+    <node name="listener_button" pkg="jstk_turtlesim" type="button_suscriber.py"/>
+
+    <!-- Rosserial arduino node -->
+    <arg name="port" default="/dev/ttyUSB0"/>
+
+    <node name="arduino_node" pkg="rosserial_python" type="serial_node.py">
+        <param name="port" type="string" value="$(arg port)"/>
+	<remap from="cmd_vel" to="turtle1/cmd_vel"/>
+    </node>
+</launch>
+
