@@ -1,5 +1,5 @@
 
-# ROS Arduino Application README
+# Control de turtlesim con Arduino-ROS
 ## Descripción
 Este proyecto es una aplicación de ROS que utiliza un módulo de Joystick junto con Arduino para controlar el movimiento de la tortuga de turtlesim de ROS. Proporciona una comunicación entre la computadora central (PC o microcontrolador) y el Arduino a través de ROS serial.
 
