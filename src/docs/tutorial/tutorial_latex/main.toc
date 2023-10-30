@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Instalación de Dependencias}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Diagrama de conexión y configuración de arduino}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Uso de la aplicación}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Estructura del proyecto}{6}{subsection.3.1}%
+\contentsline {section}{Referencias}{8}{figure.5}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {4}Apéndice}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Nodo button\_suscriber.py}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Código Arduino (\textbf {jstk\_turtlesim.ino})}{10}{subsection.4.2}%

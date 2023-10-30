@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{¿Qué es ROS?}{3}{0}{1}
+\beamer@sectionintoc {2}{Objetivos}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Objetivo general}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Objetivos específicos}{4}{0}{2}
+\beamer@sectionintoc {3}{Desarrollo}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Diagrama de conexiones}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Módulo de joystick}{6}{0}{3}
+\beamer@subsectionintoc {3}{3}{Diagrama de nodos de ROS}{7}{0}{3}
+\beamer@subsectionintoc {3}{4}{Funcionamiento de la aplicación}{8}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{9}{0}{4}
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
